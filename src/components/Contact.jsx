@@ -258,7 +258,7 @@ export default function Contact() {
 
         <div className="flex items-center gap-4">
           <span className="flex items-center gap-1.5">
-            <span className="w-1.5 h-1.5 rounded-full bg-[var(--text)] animate-pulse" />
+            {/* <span className="w-1.5 h-1.5 rounded-full bg-[var(--text)] animate-pulse" /> */}
             Designed &amp; Engineered with Care
           </span>
 
