@@ -141,7 +141,7 @@ export default function Hero() {
                 <span>Resume</span>
               </a>
 
-              <button
+              {/* <button
                 onClick={copyEmail}
                 className="inline-flex items-center gap-1.5 px-4.5 py-3 rounded-full border border-[var(--border)] bg-[var(--bg-card)] text-xs font-medium text-[var(--text-muted)] hover:text-[var(--text)] transition active:scale-95"
                 title="Copy email to clipboard"
@@ -158,7 +158,7 @@ export default function Hero() {
                     <span>Copy Email</span>
                   </>
                 )}
-              </button>
+              </button> */}
             </div>
 
             {/* Social Links */}
